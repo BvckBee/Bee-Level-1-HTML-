@@ -17,5 +17,7 @@
 
 <ul><strong>Ven hasta esta direccion y celebra conmigo mis 30 anos</strong>
     <li><a href="https://maps.app.goo.gl/t4vERiBGxKHQ5CBt8">Presiona aqui para abrir directamente en Google Maps</a></li>
-    <li><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.7857632575624!2d20.9116582617274!3d52.22910997186945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecb23771ee849%3A0x373109993f1ffeae!2sHala%20Wola%2001!5e0!3m2!1ses!2spl!4v1704975488874!5m2!1ses!2spl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></li>
+    <br>
+    <br>
+    <li><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/387768594_802044548595381_1391052559313329272_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=783fdb&amp;_nc_ohc=1NwU0IOF6LkAX-s2BKc&amp;_nc_ht=scontent-waw1-1.xx&amp;oh=00_AfCQPFSWqDdDZJDT0hNEtXOYoF7bR-67ltlg8pQY5d1fyg&amp;oe=65A5AAEB" width="908" height="475">
 </ul>
